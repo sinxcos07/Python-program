@@ -1,0 +1,8 @@
+x=float((input("enter x coordinate of first atom:")))
+y=float((input("enter y coordinate of first atom:")))
+z=float((input("enter z coordinate of first atom:")))
+x2=float((input("enter x coordinate of second atom:")))
+y2=float((input("enter y coordinate of second atom:")))
+z2=float((input("enter z coordinate of second atom:")))
+distance=((x2 - x)**2 + (y2 - y)**2 + (z2 - z)**2)**(1/2)
+print(distance)
