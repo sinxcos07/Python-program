@@ -17,9 +17,9 @@ if z>y or x>y:
 else:
     print("y is largest")
 
-''' lst=[x,y,z]
+lst=[x,y,z]
 d=int(input("enter number to check if present in list:"))
 if d in lst:
     print("yes it is present")
 else:
-    print("not found") '''
+    print("not found")
