@@ -1,5 +1,5 @@
 ###Code for Gamess Input generater####
-#!!####Author: Dr. Satyam Ravi ##########
+
 
 
 from __future__ import absolute_import, unicode_literals, division, print_function
